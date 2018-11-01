@@ -4,6 +4,7 @@
 
 ts+dva+antd(用ts重写了antd-pro1.0)
 [预览地址](http://www.chenjinxinlove.com/dva-ts/#/other/test)
+需要权限的可以使用 https://github.com/chenjinxinlove/dva-ts-auth
 ```
 
 npm install
